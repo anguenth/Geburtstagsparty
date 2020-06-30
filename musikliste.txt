@@ -1,3 +1,3 @@
-schlechtes Lied A
-schlechtes Lied B
-schlechtes Lied C
+Gutes Lied X
+Gutes Lied Y
+Gutes Lied Z
